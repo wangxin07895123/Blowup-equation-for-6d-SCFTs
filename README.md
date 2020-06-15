@@ -1,4 +1,4 @@
-# Blowup-equation-for-6d-SCFTs
+# Elliptic-Blowup-Equations-for-6d-SCFTs
 The data for the elliptic genera and the BPS invariants are based on arXiv:[2006.03030](https://arxiv.org/abs/2006.03030), please cite us.
 
 Contents:
